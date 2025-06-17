@@ -21,13 +21,15 @@ We do not have to duplicate awesome web scraping data. Therefore we provide some
 - [Scala](#scala)
 
 ## Resources
-* [Awesome web scraping](https://github.com/lorien/awesome-web-scraping)
+* [Awesome web scraping](https://github.com/lorien/awesome-web-scraping) - resources about web scraping
 * [Common Crawl](https://commoncrawl.org/)
 * [Internet Archive](https://www.archive.org/)
 * [Anna's Archive](https://annas-archive.org/)
 * [Sci Hub](https://sci-hub.se/)
-* [https://internet-in-a-box.org/](Internet in a box)
+* [Internet in a box](https://internet-in-a-box.org/)
 * [Internet Places Database](https://github.com/rumca-js/Internet-Places-Database) - crawled domain metadata archive
+
+Documents, papers
 * [Open Page Rank API](https://publicapi.dev/open-page-rank-api)
 * [Page Rank](https://en.wikipedia.org/wiki/PageRank)
 
