@@ -68,6 +68,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [webBee](https://github.com/pkwenda/webBee) - A DFS web spider.
 * [spider-flow](https://github.com/ssssssss-team/spider-flow) - A visual spider framework, it's so good that you don't need to write any code to crawl the website.
 * [Norconex Web Crawler](https://github.com/Norconex/collector-http) - Norconex HTTP Collector is a full-featured web crawler (or spider) that can manipulate and store collected data into a repository of your choice (e.g. a search engine). Can be used as a stand alone application or be embedded into Java applications.
+* [Marginalia search](https://github.com/MarginaliaSearch/MarginaliaSearch) - Marginalia search crawler
 
 
 ## C# 
