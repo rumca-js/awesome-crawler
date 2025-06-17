@@ -28,6 +28,8 @@ We do not have to duplicate awesome web scraping data. Therefore we provide some
 * [Sci Hub](https://sci-hub.se/)
 * [https://internet-in-a-box.org/](Internet in a box)
 * [Internet Places Database](https://github.com/rumca-js/Internet-Places-Database) - crawled domain metadata archive
+* [Open Page Rank API](https://publicapi.dev/open-page-rank-api)
+* [Page Rank](https://en.wikipedia.org/wiki/PageRank)
 
 ## Python 
 * [Scrapy](https://github.com/scrapy/scrapy) - A fast high-level screen scraping and web crawling framework.
