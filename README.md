@@ -72,19 +72,14 @@ Documents, papers
 * [Infinity Crawler](https://github.com/TurnerSoftware/InfinityCrawler) - A simple but powerful web crawler library in C#.
 
 ## JavaScript
-* [scraperjs](https://github.com/ruipgil/scraperjs) - A complete and versatile web scraper.
-* [scrape-it](https://github.com/IonicaBizau/scrape-it) - A Node.js scraper for humans.
 * [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 * [node-crawler](https://github.com/bda-research/node-crawler) - Node-crawler has clean,simple api.
 * [js-crawler](https://github.com/antivanov/js-crawler) - Web crawler for Node.JS, both HTTP and HTTPS are supported.
 * [webster](https://github.com/zhuyingda/webster) - A reliable web crawling framework which can scrape ajax and js rendered content in a web page.
 * [x-ray](https://github.com/lapwinglabs/x-ray) - Web scraper with pagination and crawler support.
-* [node-osmosis](https://github.com/rchipka/node-osmosis) - HTML/XML parser and web scraper for Node.js.
-* [web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper-chrome-extension) - Web data extraction tool implemented as chrome extension.
 * [supercrawler](https://github.com/brendonboshell/supercrawler) - Define custom handlers to parse content. Obeys robots.txt, rate limits and concurrency limits. 
 * [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Headless Chrome crawls with jQuery support
 * [Squidwarc](https://github.com/n0tan3rd/squidwarc) - High fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head
-* [crawlee](https://github.com/apify/crawlee) - A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast. 
 * [Sasori](https://github.com/karthikuj/sasori) - A dynamic web crawler built on Puppeteer with support for authentication.
 
 ## PHP
