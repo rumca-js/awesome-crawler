@@ -36,6 +36,7 @@ Documents, papers
 
 ## Python 
 * [distribute_crawler](https://github.com/gnemoug/distribute_crawler) - Uses scrapy,redis, mongodb,graphite to create a distributed spider.
+* [crawl4ai](https://github.com/unclecode/crawl4ai)
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 * [crawley](https://github.com/jmg/crawley) - Pythonic Crawling / Scraping Framework based on Non Blocking I/O operations.
 * [Gain](https://github.com/gaojiuli/gain) - Web crawling framework based on asyncio for everyone.
