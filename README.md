@@ -73,6 +73,7 @@ Documents, papers
 * [Infinity Crawler](https://github.com/TurnerSoftware/InfinityCrawler) - A simple but powerful web crawler library in C#.
 
 ## JavaScript
+* [browsertrix crawler](https://github.com/webrecorder/browsertrix-crawler)
 * [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 * [node-crawler](https://github.com/bda-research/node-crawler) - Node-crawler has clean,simple api.
 * [js-crawler](https://github.com/antivanov/js-crawler) - Web crawler for Node.JS, both HTTP and HTTPS are supported.
