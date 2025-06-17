@@ -46,6 +46,7 @@ Documents, papers
 * [CoCrawler](https://github.com/cocrawler/cocrawler) - A versatile web crawler built using modern tools and concurrency.
 
 ## Java
+* [Marginalia search](https://github.com/MarginaliaSearch/MarginaliaSearch) - Marginalia search crawler
 * [ACHE Crawler](https://github.com/ViDA-NYU/ache) - An easy to use web crawler for domain-specific search.
 * [Apache Nutch](http://nutch.apache.org/) - Highly extensible, highly scalable web crawler for production environment.
 * [Crawler4j](https://github.com/yasserg/crawler4j) - Simple and lightweight web crawler.
@@ -61,7 +62,6 @@ Documents, papers
 * [Spark-Crawler](https://github.com/USCDataScience/sparkler) - Evolving Apache Nutch to run on Spark.
 * [webBee](https://github.com/pkwenda/webBee) - A DFS web spider.
 * [Norconex Web Crawler](https://github.com/Norconex/collector-http) - Norconex HTTP Collector is a full-featured web crawler (or spider) that can manipulate and store collected data into a repository of your choice (e.g. a search engine). Can be used as a stand alone application or be embedded into Java applications.
-* [Marginalia search](https://github.com/MarginaliaSearch/MarginaliaSearch) - Marginalia search crawler
 * [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Norconex HTTP Collector is a full-featured web crawler (or spider) that can manipulate and store collected data into a repository of your choice (e.g. a search engine). Can be used as a stand alone application or be embedded into Java applications.
 
 ## C# 
