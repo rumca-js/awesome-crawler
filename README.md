@@ -36,7 +36,6 @@ Documents, papers
 
 ## Python 
 * [distribute_crawler](https://github.com/gnemoug/distribute_crawler) - Uses scrapy,redis, mongodb,graphite to create a distributed spider.
-* [CoCrawler](https://github.com/cocrawler/cocrawler) - A versatile web crawler built using modern tools and concurrency.
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 * [crawley](https://github.com/jmg/crawley) - Pythonic Crawling / Scraping Framework based on Non Blocking I/O operations.
 * [Gain](https://github.com/gaojiuli/gain) - Web crawling framework based on asyncio for everyone.
@@ -45,6 +44,7 @@ Documents, papers
 * [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3
 * [tiny-web-crawler](https://github.com/indrajithi/tiny-web-crawler) - A simple and efficient web crawler for Python.
 * [crawler-buddy](https://github.com/rumca-js/crawler-buddy) - A crawling server with JSON interface
+* [CoCrawler](https://github.com/cocrawler/cocrawler) - A versatile web crawler built using modern tools and concurrency.
 
 ## Java
 * [ACHE Crawler](https://github.com/ViDA-NYU/ache) - An easy to use web crawler for domain-specific search.
