@@ -2,7 +2,7 @@
 A collection of awesome web crawler,spider and resources in different languages.
 
 ## Contents
-
+- [Resources](#resources)
 - [Python](#python)
 - [Java](#java)
 - [C#](#c)
@@ -17,6 +17,9 @@ A collection of awesome web crawler,spider and resources in different languages.
 - [Perl](#perl)
 - [Go](#go)
 - [Scala](#scala)
+
+## Resources
+* [Awesome web scraping](https://github.com/lorien/awesome-web-scraping)
 
 ## Python 
 * [Scrapy](https://github.com/scrapy/scrapy) - A fast high-level screen scraping and web crawling framework.
