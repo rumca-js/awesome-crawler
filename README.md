@@ -22,6 +22,12 @@ We do not have to duplicate awesome web scraping data. Therefore we provide some
 
 ## Resources
 * [Awesome web scraping](https://github.com/lorien/awesome-web-scraping)
+* [Common Crawl](https://commoncrawl.org/)
+* [Internet Archive](https://www.archive.org/)
+* [Anna's Archive](https://annas-archive.org/)
+* [Sci Hub](https://sci-hub.se/)
+* [https://internet-in-a-box.org/](Internet in a box)
+* [Internet Places Database](https://github.com/rumca-js/Internet-Places-Database) - crawled domain metadata archive
 
 ## Python 
 * [Scrapy](https://github.com/scrapy/scrapy) - A fast high-level screen scraping and web crawling framework.
@@ -34,7 +40,6 @@ We do not have to duplicate awesome web scraping data. Therefore we provide some
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 * [Demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.
 * [Scrapely](https://github.com/scrapy/scrapely) - A pure-python HTML screen-scraping library.
-* [feedparser](http://pythonhosted.org/feedparser/) - Universal feed parser.
 * [you-get](https://github.com/soimort/you-get) -  Dumb downloader that scrapes the web.
 * [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites.
 * [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
@@ -154,11 +159,7 @@ We do not have to duplicate awesome web scraping data. Therefore we provide some
 * [Dataflow kit](https://github.com/slotix/dataflowkit) - Extract structured data from web pages. Web sites scraping.
 * [Hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 
-
 ## Scala
 * [crawler](https://github.com/bplawler/crawler) - Scala DSL for web crawling.
 * [scrala](https://github.com/gaocegege/scrala) - Scala crawler(spider) framework, inspired by scrapy.
 * [ferrit](https://github.com/reggoodwin/ferrit) - Ferrit is a web crawler service written in Scala using Akka, Spray and Cassandra.
-
-## Crawl Archives
-* [Internet Places Database](https://github.com/rumca-js/Internet-Places-Database) - crawled domain metadata archive
