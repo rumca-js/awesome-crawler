@@ -21,7 +21,7 @@ We do not have to duplicate awesome web scraping data. Therefore we provide some
 - [Libraries](#libraries)
 
 ## Resources
-* [Awesome web scraping](https://github.com/lorien/awesome-web-scraping) - resources about web scraping
+* [Awesome web scraping](https://github.com/lorien/awesome-web-scraping) - resources about web scraping, tools, frameworks
 * [Common Crawl](https://commoncrawl.org/)
 * [Internet Archive](https://www.archive.org/)
 * [Anna's Archive](https://annas-archive.org/)
