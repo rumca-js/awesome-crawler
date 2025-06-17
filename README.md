@@ -12,14 +12,13 @@ We do not have to duplicate awesome web scraping data. Therefore we provide some
 - [JavaScript](#javascript)
 - [PHP](#php)
 - [C++](#c-1)
-- [C](#c-2)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [R](#r)
 - [Erlang](#erlang)
-- [Perl](#perl)
 - [Go](#go)
 - [Scala](#scala)
+- [Other](#other)
+- [Libraries](#libraries)
 
 ## Resources
 * [Awesome web scraping](https://github.com/lorien/awesome-web-scraping) - resources about web scraping
@@ -127,6 +126,9 @@ Documents, papers
 * [crawler](https://github.com/bplawler/crawler) - Scala DSL for web crawling.
 * [scrala](https://github.com/gaocegege/scrala) - Scala crawler(spider) framework, inspired by scrapy.
 * [ferrit](https://github.com/reggoodwin/ferrit) - Ferrit is a web crawler service written in Scala using Akka, Spray and Cassandra.
+
+## Other
+* [Easy Spider](https://github.com/NaiboWang/EasySpider)
 
 ## Libraries
 * [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3
