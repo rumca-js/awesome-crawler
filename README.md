@@ -41,7 +41,6 @@ Documents, papers
 * [Gain](https://github.com/gaojiuli/gain) - Web crawling framework based on asyncio for everyone.
 * [sukhoi](https://github.com/iogf/sukhoi) - Minimalist and powerful Web Crawler.
 * [spidy](https://github.com/rivermont/spidy) - The simple, easy to use command line web crawler. 
-* [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3
 * [tiny-web-crawler](https://github.com/indrajithi/tiny-web-crawler) - A simple and efficient web crawler for Python.
 * [crawler-buddy](https://github.com/rumca-js/crawler-buddy) - A crawling server with JSON interface
 * [CoCrawler](https://github.com/cocrawler/cocrawler) - A versatile web crawler built using modern tools and concurrency.
@@ -144,3 +143,6 @@ Documents, papers
 * [crawler](https://github.com/bplawler/crawler) - Scala DSL for web crawling.
 * [scrala](https://github.com/gaocegege/scrala) - Scala crawler(spider) framework, inspired by scrapy.
 * [ferrit](https://github.com/reggoodwin/ferrit) - Ferrit is a web crawler service written in Scala using Akka, Spray and Cassandra.
+
+## Libraries
+* [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3
