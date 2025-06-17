@@ -48,6 +48,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [aspider](https://github.com/howie6879/aspider) - An async web scraping micro-framework based on asyncio
 * [tiny-web-crawler](https://github.com/indrajithi/tiny-web-crawler) - A simple and efficient web crawler for Python.
 * [crawler-buddy](https://github.com/rumca-js/crawler-buddy) - A crawling server with JSON interface
+* [Botasaurus](https://github.com/omkarcloud/botasaurus)
 
 ## Java
 * [ACHE Crawler](https://github.com/ViDA-NYU/ache) - An easy to use web crawler for domain-specific search.
