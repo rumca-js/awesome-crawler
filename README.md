@@ -1,5 +1,7 @@
 # Awesome-crawler ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 A collection of awesome web crawler,spider and resources in different languages.
+There is already awesome web scraping information, but web crawling is something slightly different, often more ethical thing.
+We do not have to duplicate awesome web scraping data. Therefore we provide something that adds value.
 
 ## Contents
 - [Resources](#resources)
