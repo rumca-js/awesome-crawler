@@ -49,7 +49,6 @@ Documents, papers
 * [ACHE Crawler](https://github.com/ViDA-NYU/ache) - An easy to use web crawler for domain-specific search.
 * [Apache Nutch](http://nutch.apache.org/) - Highly extensible, highly scalable web crawler for production environment.
 * [Crawler4j](https://github.com/yasserg/crawler4j) - Simple and lightweight web crawler.
-* [websphinx](http://www.cs.cmu.edu/~rcm/websphinx/) - Website-Specific Processors for HTML information extraction.
 * [Open Search Server](http://www.opensearchserver.com/) - A full set of search functions. Build your own indexing strategy. Parsers extract full-text data. The crawlers can index everything.
 * [Gecco](https://github.com/xtuhcy/gecco) - A easy to use lightweight web crawler
 * [WebCollector](https://github.com/CrawlScript/WebCollector) - Simple interfaces for crawling the Web,you can setup a multi-threaded web crawler in less than 5 minutes.
