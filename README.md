@@ -114,14 +114,8 @@ Documents, papers
 * [spider](https://github.com/spider-rs/spider) - The fastest web crawler and indexer.
 * [crawler](https://github.com/a11ywatch/crawler) - A gRPC web indexer turbo charged for performance.
 
-## R
-* [rvest](https://github.com/hadley/rvest) - Simple web scraping for R.
-
 ## Erlang 
 * [ebot](https://github.com/matteoredaelli/ebot) - A scalable, distribuited and highly configurable web cawler.
-
-## Perl
-* [web-scraper](https://github.com/miyagawa/web-scraper) - Web Scraping Toolkit using HTML and CSS Selectors or XPath expressions.
 
 ## Go 
 * [pholcus](https://github.com/henrylee2cn/pholcus) -  A distributed, high concurrency and powerful web crawler.
@@ -130,11 +124,7 @@ Documents, papers
 * [go_spider](https://github.com/hu17889/go_spider) - An awesome Go concurrent Crawler(spider) framework. 
 * [dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
 * [ants-go](https://github.com/wcong/ants-go) - A open source, distributed, restful crawler engine in golang.
-* [scrape](https://github.com/yhat/scrape) - A simple, higher level interface for Go web scraping.
 * [creeper](https://github.com/wspl/creeper) - The Next Generation Crawler Framework (Go).
-* [colly](https://github.com/asciimoo/colly) - Fast and Elegant Scraping Framework for Gophers.
-* [ferret](https://github.com/MontFerret/ferret) - Declarative web scraping.
-* [Dataflow kit](https://github.com/slotix/dataflowkit) - Extract structured data from web pages. Web sites scraping.
 * [Hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 
 ## Scala
