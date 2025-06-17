@@ -1,5 +1,6 @@
 # Awesome-crawler ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-A collection of awesome web crawler,spider and resources in different languages.
+Information about web crawling and search engines (about how to access crawled pages).
+
 There is already awesome web scraping information, but web crawling is something slightly different, often more ethical thing.
 We do not have to duplicate awesome web scraping data. Therefore we provide something that adds value.
 
@@ -34,39 +35,22 @@ Documents, papers
 * [Page Rank](https://en.wikipedia.org/wiki/PageRank)
 
 ## Python 
-* [Scrapy](https://github.com/scrapy/scrapy) - A fast high-level screen scraping and web crawling framework.
-    * [django-dynamic-scraper](https://github.com/holgerd77/django-dynamic-scraper) - Creating Scrapy scrapers via the Django admin interface.
-    * [Scrapy-Redis](https://github.com/rolando/scrapy-redis) - Redis-based components for Scrapy.
-    * [scrapy-cluster](https://github.com/istresearch/scrapy-cluster) - Uses Redis and Kafka to create a distributed on demand scraping cluster.
-    * [distribute_crawler](https://github.com/gnemoug/distribute_crawler) - Uses scrapy,redis, mongodb,graphite to create a distributed spider.
-* [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
+* [distribute_crawler](https://github.com/gnemoug/distribute_crawler) - Uses scrapy,redis, mongodb,graphite to create a distributed spider.
 * [CoCrawler](https://github.com/cocrawler/cocrawler) - A versatile web crawler built using modern tools and concurrency.
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
-* [Demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.
-* [Scrapely](https://github.com/scrapy/scrapely) - A pure-python HTML screen-scraping library.
-* [you-get](https://github.com/soimort/you-get) -  Dumb downloader that scrapes the web.
-* [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites.
-* [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
 * [crawley](https://github.com/jmg/crawley) - Pythonic Crawling / Scraping Framework based on Non Blocking I/O operations.
-* [RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
-* [MSpider](https://github.com/manning23/MSpider) - A simple ,easy spider using gevent and js render. 
-* [brownant](https://github.com/douban/brownant) - A lightweight web data extracting framework.
-* [PSpider](https://github.com/xianhu/PSpider) - A simple spider frame in Python3.
 * [Gain](https://github.com/gaojiuli/gain) - Web crawling framework based on asyncio for everyone.
 * [sukhoi](https://github.com/iogf/sukhoi) - Minimalist and powerful Web Crawler.
 * [spidy](https://github.com/rivermont/spidy) - The simple, easy to use command line web crawler. 
 * [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3
-* [aspider](https://github.com/howie6879/aspider) - An async web scraping micro-framework based on asyncio
 * [tiny-web-crawler](https://github.com/indrajithi/tiny-web-crawler) - A simple and efficient web crawler for Python.
 * [crawler-buddy](https://github.com/rumca-js/crawler-buddy) - A crawling server with JSON interface
-* [Botasaurus](https://github.com/omkarcloud/botasaurus)
 
 ## Java
 * [ACHE Crawler](https://github.com/ViDA-NYU/ache) - An easy to use web crawler for domain-specific search.
 * [Apache Nutch](http://nutch.apache.org/) - Highly extensible, highly scalable web crawler for production environment.
     * [anthelion](https://github.com/yahoo/anthelion) - A plugin for Apache Nutch to crawl semantic annotations within HTML pages.
 * [Crawler4j](https://github.com/yasserg/crawler4j) - Simple and lightweight web crawler.
-* [JSoup](http://jsoup.org/) - Scrapes, parses, manipulates and cleans HTML.
 * [websphinx](http://www.cs.cmu.edu/~rcm/websphinx/) - Website-Specific Processors for HTML information extraction.
 * [Open Search Server](http://www.opensearchserver.com/) - A full set of search functions. Build your own indexing strategy. Parsers extract full-text data. The crawlers can index everything.
 * [Gecco](https://github.com/xtuhcy/gecco) - A easy to use lightweight web crawler
@@ -79,7 +63,6 @@ Documents, papers
 * [StormCrawler](http://github.com/DigitalPebble/storm-crawler/) - An open source collection of resources for building low-latency, scalable web crawlers on Apache Storm
 * [Spark-Crawler](https://github.com/USCDataScience/sparkler) - Evolving Apache Nutch to run on Spark.
 * [webBee](https://github.com/pkwenda/webBee) - A DFS web spider.
-* [spider-flow](https://github.com/ssssssss-team/spider-flow) - A visual spider framework, it's so good that you don't need to write any code to crawl the website.
 * [Norconex Web Crawler](https://github.com/Norconex/collector-http) - Norconex HTTP Collector is a full-featured web crawler (or spider) that can manipulate and store collected data into a repository of your choice (e.g. a search engine). Can be used as a stand alone application or be embedded into Java applications.
 * [Marginalia search](https://github.com/MarginaliaSearch/MarginaliaSearch) - Marginalia search crawler
 * [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Norconex HTTP Collector is a full-featured web crawler (or spider) that can manipulate and store collected data into a repository of your choice (e.g. a search engine). Can be used as a stand alone application or be embedded into Java applications.
@@ -87,10 +70,8 @@ Documents, papers
 ## C# 
 * [ccrawler](http://www.findbestopensource.com/product/ccrawler) - Built in C# 3.5 version. it contains a simple extension of web content categorizer, which can separate between the web page depending on their content.
 * [SimpleCrawler](https://github.com/lei-zhu/SimpleCrawler) - Simple spider base on mutithreading, regluar expression.
-* [DotnetSpider](https://github.com/zlzforever/DotnetSpider) - This is a cross platfrom, ligth spider develop by C#.
 * [Abot](https://github.com/sjdirect/abot) - C# web crawler built for speed and flexibility.
 * [Hawk](https://github.com/ferventdesert/Hawk) - Advanced Crawler and ETL tool written in C#/WPF.
-* [SkyScraper](https://github.com/JonCanning/SkyScraper) - An asynchronous web scraper / web crawler using async / await and Reactive Extensions.
 * [Infinity Crawler](https://github.com/TurnerSoftware/InfinityCrawler) - A simple but powerful web crawler library in C#.
 
 ## JavaScript
@@ -124,15 +105,11 @@ Documents, papers
 * [open-source-search-engine](https://github.com/gigablast/open-source-search-engine) - A distributed open source search engine and spider/crawler written in C/C++.
 * [SpiderSuite](https://github.com/3nock/SpiderSuite) - An advance, cross-platform web security crawler. Built using C++ Qt framework.
 
-## C
-* [httrack](https://github.com/xroche/httrack) - Copy websites to your computer.
-
 ## Ruby
 * [Nokogiri](https://github.com/sparklemotion/nokogiri) - A Rubygem providing HTML, XML, SAX, and Reader parsers with XPath and CSS selector support.
 * [upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS(Or do more).
 * [wombat](https://github.com/felipecsl/wombat) - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
 * [RubyRetriever](https://github.com/joenorton/rubyretriever) - RubyRetriever is a Web Crawler, Scraper & File Harvester.
-* [Spidr](https://github.com/postmodern/spidr) - Spider a site, multiple domains, certain links or infinitely.
 * [Cobweb](https://github.com/stewartmckee/cobweb) - Web crawler with very flexible crawling options, standalone or using sidekiq.
 * [mechanize](https://github.com/sparklemotion/mechanize) - Automated web interaction & crawling.
 
